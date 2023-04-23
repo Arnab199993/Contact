@@ -4,7 +4,7 @@ const Services = () => {
     return (
         <div>
             <div style={{ marginTop: "50px" }}>
-                <strong style={{ marginLeft: "43%", color: "#585858", fontSize: "17.8px" }}>S</strong>
+                <strong style={{ marginLeft: "40%", color: "#585858", fontSize: "17.8px" }}>S</strong>
                 <strong style={{ marginLeft: "4px", color: "#585858", fontSize: "17.8px" }} >E</strong>
                 <strong style={{ marginLeft: "4px", color: "#585858", fontSize: "17.8px" }}>R</strong>
                 <strong style={{ marginLeft: "4px", color: "#585858", fontSize: "17.8px" }}>V</strong>
