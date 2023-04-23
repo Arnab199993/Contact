@@ -1,0 +1,28 @@
+.ImageProduct{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.Bio{
+    margin-left: 15px;
+
+}
+.Web{
+    font-weight:bolder;
+    color:#000000;
+    margin-top: 20px;
+}
+.Text{
+    padding: 15px;
+}
+.Prodwithimage{
+    display: flex;
+    margin-left: 150px;
+}
+.SecondLines{
+    display: flex;
+}
+.Main{
+    
+    margin-top: 80px;
+    padding-bottom: 100px;
+}
