@@ -10,8 +10,19 @@ const Contact = () => {
                         <span className='contactSecond'>Ensure you success</span>
                     </div>
                     <div className='Btn'>
-                        <button className='Button'>Contact Us</button>
-                        <button className='Button1'>Lets Talk</button>
+                        <div className='DivBtn'>
+                            <button className='Button'>
+                                <div style={{ display: "flex", marginLeft: "10px" }}>
+                                    <img className='contactphoto' src='./telephone.png' /><span className='talk'>Contact Us</span>
+                                </div>
+                            </button>
+                            <button className='Button1'>
+                                <div style={{ display: "flex", marginLeft: "10px" }}>
+                                    <img className='contactphoto' src='./speech-bubble.png' />
+                                    <span className='talk'>Lets Talk</span>
+                                </div>
+                            </button>
+                        </div>
                     </div>
                 </div>
 
